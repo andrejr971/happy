@@ -31,4 +31,4 @@ Desenvolvida durante a next level week #03 da Rockeseat.
 
 ---
 
-Feito by André Junior :wave: [portifólio](https://andrejr.online)
+Feito by André Junior :wave: [portifólio](https://andrejr.dev)
